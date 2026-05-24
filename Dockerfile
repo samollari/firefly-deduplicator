@@ -1,4 +1,4 @@
-FROM python:3.12-slim
+FROM astral/uv:python3.12-slim
 
 WORKDIR /app
 
